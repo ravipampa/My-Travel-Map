@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ravipampa/My-Travel-Map/static/css/main.2cce8147.chunk.css",
-    "main.js": "/ravipampa/My-Travel-Map/static/js/main.984e8d45.chunk.js",
-    "main.js.map": "/ravipampa/My-Travel-Map/static/js/main.984e8d45.chunk.js.map",
-    "runtime~main.js": "/ravipampa/My-Travel-Map/static/js/runtime~main.8ea66033.js",
-    "runtime~main.js.map": "/ravipampa/My-Travel-Map/static/js/runtime~main.8ea66033.js.map",
-    "static/js/2.cc7f30eb.chunk.js": "/ravipampa/My-Travel-Map/static/js/2.cc7f30eb.chunk.js",
-    "static/js/2.cc7f30eb.chunk.js.map": "/ravipampa/My-Travel-Map/static/js/2.cc7f30eb.chunk.js.map",
-    "index.html": "/ravipampa/My-Travel-Map/index.html",
-    "precache-manifest.019f258afaa39194d4286c790d612eb2.js": "/ravipampa/My-Travel-Map/precache-manifest.019f258afaa39194d4286c790d612eb2.js",
-    "service-worker.js": "/ravipampa/My-Travel-Map/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/ravipampa/My-Travel-Map/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/ravipampa/My-Travel-Map/static/media/logo.5d5d9eef.svg"
+    "main.css": "/My-Travel-Map/static/css/main.2cce8147.chunk.css",
+    "main.js": "/My-Travel-Map/static/js/main.d94e8df9.chunk.js",
+    "main.js.map": "/My-Travel-Map/static/js/main.d94e8df9.chunk.js.map",
+    "runtime~main.js": "/My-Travel-Map/static/js/runtime~main.b13372eb.js",
+    "runtime~main.js.map": "/My-Travel-Map/static/js/runtime~main.b13372eb.js.map",
+    "static/js/2.cc7f30eb.chunk.js": "/My-Travel-Map/static/js/2.cc7f30eb.chunk.js",
+    "static/js/2.cc7f30eb.chunk.js.map": "/My-Travel-Map/static/js/2.cc7f30eb.chunk.js.map",
+    "index.html": "/My-Travel-Map/index.html",
+    "precache-manifest.a642378d86fee0b16228bd8ed5212b9a.js": "/My-Travel-Map/precache-manifest.a642378d86fee0b16228bd8ed5212b9a.js",
+    "service-worker.js": "/My-Travel-Map/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/My-Travel-Map/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/My-Travel-Map/static/media/logo.5d5d9eef.svg"
   }
 }
